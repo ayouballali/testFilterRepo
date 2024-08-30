@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Hello world!");
         logger.info("Hello world !");
         // a comment
+        // add another commit
     }
 }
